@@ -1,5 +1,7 @@
 # Hi, I'm YWH 👋
 
+[简体中文](README.md) | [English](README.en.md)
+
 > 嵌入式 AI / 机器人系统方向开发者：让感知、推理与控制真正运行在设备上。
 
 我主要围绕 **嵌入式系统、Edge AI、机器人控制与复杂系统集成** 做项目。相比只完成单个算法或外设 Demo，我更关注从传感器采集、协议与实时控制，到端侧推理、执行器和上位机的完整闭环。
@@ -26,11 +28,11 @@ Edge AI · 状态估计 · 协议与状态机
 | 项目 | 我解决的问题 | 技术关键词 |
 | --- | --- | --- |
 | [**瑞萨杯 RA8P1 远程精准作业机器人**](https://github.com/YWH-YNOT/renesas-ra8p1-robot-showcase) | 将手套遥操作、双核实时控制、NPU 视觉、麦轮底盘、机械臂与无线图传组成可恢复的分布式闭环 | Cortex-M85/M33、Ethos-U55、IPC、CAN、PySide6 |
-| [AI 智能教学平台](https://github.com/YWH-YNOT/work4) | 打通教师/学生/管理端、课堂姿态检测、人脸识别和教学业务 API | Vue 3、FastAPI、Jetson、YOLO Pose |
+| [AI 智能教学平台](https://github.com/YWH-YNOT/ai-teaching-platform-showcase) | 打通教师/学生/管理端、课程 RAG、教学过程管理与多端交付 | Vue 3、FastAPI、Capacitor、SQLite、RAG |
 | [智能穿戴手套与 Edge AI](https://github.com/YWH-YNOT/smart-glove-edge-ai) | 打通多路 IMU、STM32 特征帧、RA6M5 SVM 推理与稳定机器人语义 | STM32F407、RA6M5、SVM、CRC16、DMA |
 | [嵌入式软件工程 Agent](https://github.com/YWH-YNOT/embedded-software-engineer-agent) | 用资料审查、模块化开发和验证契约约束 AI 辅助固件开发 | Agent workflow、模板、验证、STM32 |
 | [工训物流搬运机器人](https://github.com/YWH-YNOT/stm32-logistics-robot) | 工训物流搬运任务中的多串口 DMA、闭环步进驱动与舵机状态机 | STM32F407、UART DMA、步进电机、舵机 |
-| [EMB-UAV](https://github.com/YWH-YNOT/EMB-UAV) | ROS 2、FAST-LIO、MAVROS 与 PX4 的定位桥接、坐标对齐和任务安全 | Python、ROS 2、PX4、MAVROS、FAST-LIO |
+| [EMB-UAV](https://github.com/YWH-YNOT/EMB-UAV-showcase) | ROS 2、FAST-LIO、MAVROS 与 PX4 的定位桥接、坐标对齐和任务安全 | Python、ROS 2、PX4、MAVROS、FAST-LIO |
 
 > 部分比赛项目因队伍协作、硬件资料或知识产权原因暂不公开完整源码；主页只陈述当前材料能够验证的实现，不把规划项包装成已完成结果。
 
