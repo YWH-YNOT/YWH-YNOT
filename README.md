@@ -27,10 +27,10 @@ Edge AI · 状态估计 · 协议与状态机
 | --- | --- | --- |
 | [**瑞萨杯 RA8P1 远程精准作业机器人**](https://github.com/YWH-YNOT/renesas-ra8p1-robot-showcase) | 将手套遥操作、双核实时控制、NPU 视觉、麦轮底盘、机械臂与无线图传组成可恢复的分布式闭环 | Cortex-M85/M33、Ethos-U55、IPC、CAN、PySide6 |
 | [AI 智能教学平台](https://github.com/YWH-YNOT/work4) | 打通教师/学生/管理端、课堂姿态检测、人脸识别和教学业务 API | Vue 3、FastAPI、Jetson、YOLO Pose |
-| [智能穿戴手套](https://github.com/YWH-YNOT/shoutao) | 多路 IMU 采集与 MCU 实时处理，将手势转换为稳定的机器人语义命令 | STM32F407、MPU6050、DMA、TinyML |
-| [RA6M5 手势识别链路](https://github.com/YWH-YNOT/project6) | 将手套特征帧、CRC、SVM 推理和分周期命令调度拆成可验证的分层系统 | RA6M5、FSP、SVM、CRC16、AGT |
+| [智能穿戴手套与 Edge AI](https://github.com/YWH-YNOT/smart-glove-edge-ai) | 打通多路 IMU、STM32 特征帧、RA6M5 SVM 推理与稳定机器人语义 | STM32F407、RA6M5、SVM、CRC16、DMA |
 | [嵌入式软件工程 Agent](https://github.com/YWH-YNOT/embedded-software-engineer-agent) | 用资料审查、模块化开发和验证契约约束 AI 辅助固件开发 | Agent workflow、模板、验证、STM32 |
-| [物流搬运机器人](https://github.com/YWH-YNOT/-) | 建立多串口 DMA、闭环步进驱动与舵机状态机的执行器控制基线 | STM32F407、UART DMA、步进电机、舵机 |
+| [工训物流搬运机器人](https://github.com/YWH-YNOT/stm32-logistics-robot) | 工训物流搬运任务中的多串口 DMA、闭环步进驱动与舵机状态机 | STM32F407、UART DMA、步进电机、舵机 |
+| [EMB-UAV](https://github.com/YWH-YNOT/EMB-UAV) | ROS 2、FAST-LIO、MAVROS 与 PX4 的定位桥接、坐标对齐和任务安全 | Python、ROS 2、PX4、MAVROS、FAST-LIO |
 
 > 部分比赛项目因队伍协作、硬件资料或知识产权原因暂不公开完整源码；主页只陈述当前材料能够验证的实现，不把规划项包装成已完成结果。
 
