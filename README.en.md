@@ -31,7 +31,7 @@ MCU peripherals and hand-built hardware
   → IMU, encoders, motors, and PID control
   → multi-UART and multi-actuator robots
   → UAV/ground coordination and visual communication
-  → Web, mobile, Jetson, and AI services
+  → Web, mobile, course RAG, and AI services
   → sensor ML and embedded inference
   → RA8P1 dual-core + NPU distributed robot
 ```
